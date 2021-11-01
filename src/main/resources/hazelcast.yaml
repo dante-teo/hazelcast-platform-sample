@@ -1,0 +1,11 @@
+hazelcast:
+  map:
+    shared:
+      event-journal:
+        enabled: true
+  network:
+    join:
+      multicast:
+        enabled: true
+  jet:
+    enabled: true
