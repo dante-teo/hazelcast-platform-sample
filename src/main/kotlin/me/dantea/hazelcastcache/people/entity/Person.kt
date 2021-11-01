@@ -1,4 +1,4 @@
-package me.dantea.hazelcastcache
+package me.dantea.hazelcastcache.people.entity
 
 import java.io.Serializable
 

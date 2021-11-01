@@ -1,4 +1,5 @@
 hazelcast:
+  instance-name: mr_hazel
   map:
     shared:
       event-journal:
